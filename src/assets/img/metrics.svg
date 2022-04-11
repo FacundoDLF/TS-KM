@@ -1,0 +1,25 @@
+<svg width="640" height="516" viewBox="0 0 640 516" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="640" height="516" fill="white"/>
+<rect width="640" height="516" fill="white"/>
+<rect x="20" y="87" width="600.837" height="52.6979" fill="#383838"/>
+<circle cx="109.333" cy="183.708" r="17.7083" fill="black"/>
+<path d="M51 216H168.187" stroke="black"/>
+<circle cx="310.333" cy="300.708" r="17.7083" fill="black"/>
+<path d="M252 333H369.187" stroke="black"/>
+<circle cx="511.333" cy="300.708" r="17.7083" fill="black"/>
+<path d="M453 333H570.187" stroke="black"/>
+<circle cx="310.333" cy="424.708" r="17.7083" fill="black"/>
+<path d="M252 457H369.187" stroke="black"/>
+<circle cx="108.333" cy="424.708" r="17.7083" fill="black"/>
+<path d="M50 457H167.187" stroke="black"/>
+<circle cx="511.333" cy="424.708" r="17.7083" fill="black"/>
+<path d="M453 457H570.187" stroke="black"/>
+<circle cx="109.333" cy="300.708" r="17.7083" fill="black"/>
+<path d="M51 333H168.187" stroke="black"/>
+<circle cx="310.333" cy="183.708" r="17.7083" fill="black"/>
+<path d="M252 216H369.187" stroke="black"/>
+<circle cx="511.333" cy="183.708" r="17.7083" fill="black"/>
+<path d="M453 216H570.187" stroke="black"/>
+<path d="M50 113.5L32.75 133.852L32.75 93.1484L50 113.5Z" fill="#5CB247"/>
+<path d="M47 113.5L25.25 136.45L25.25 90.5503L47 113.5Z" fill="#606060"/>
+</svg>

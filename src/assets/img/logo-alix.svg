@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+    <title>A9CED251-0FED-46BB-BCF2-FFF01E4EDB3A</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="14.8541633 20 18.970543 20 11.6502815 0 7.32026144 0 0 20 4.0095595 20 12.7959734 14.2233809 6.10649431 14.2233809 9.48527149 5.00027158"></polygon>
+    </defs>
+    <g id="Option-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Page-1" transform="translate(-40.000000, -25.000000)">
+            <g id="Headers-/-Assortment-/-Regular">
+                <g id="Logo-combination" transform="translate(40.000000, 9.000000)">
+                    <g id="Logo-Small" transform="translate(0.000000, 16.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Fill-8" fill="#FFFFFF" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

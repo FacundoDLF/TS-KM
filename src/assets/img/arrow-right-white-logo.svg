@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+    <title>5C24F5BF-E94E-431A-AB69-C998C24F1DF3</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M37.8993879,17.9724998 L54.5451158,35 L37.8993879,52.0275002 L33.7745984,47.808108 L43.5225002,37.837 L16.5943753,37.8379167 L16.5943753,32.1620833 L43.5215002,32.162 L33.7745984,22.191892 L37.8993879,17.9724998 Z" id="path-1"></path>
+    </defs>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-50px-/-customers-Copy" transform="translate(0.233171, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#4A4A4A" xlink:href="#path-1"></use>
+            <g id="Colors-/-New-Green-1" mask="url(#mask-2)" fill="#FFFFFF">
+                <rect id="Rectangle-3" x="0" y="0" width="68.1100006" height="70"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,7 @@
+export const MUTATIONS_TYPES = {
+  SET_CASES_LIST: "SET_CASES_LIST"
+};
+
+export const ACTIONS_TYPES = {
+  FETCH_CASES_BY_USER: "FETCH_CASES_BY_USER"
+};

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icons / 24px / Delete Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M17.1989376,6 L18.6131512,7.41421356 L13.721,12.306 L18.6131512,17.1989376 L17.1989376,18.6131512 L12.306,13.721 L7.41421356,18.6131512 L6,17.1989376 L10.892,12.306 L6,7.41421356 L7.41421356,6 L12.306,10.892 L17.1989376,6 Z" id="path-1"></path>
+    </defs>
+    <g id="Icons-/-24px-/-Delete-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="red">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#C71E00" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="Colors-/-White" mask="url(#mask-2)" fill="#dc3545">
+            <rect id="Rectangle-3" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

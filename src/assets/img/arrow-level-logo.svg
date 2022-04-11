@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Icons / 24px / Arrow left small</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="5.8045 1.1045 4.7 -8.8817842e-16 0 4.7 4.7 9.4 5.8045 8.2955 2.21683333 4.7"></polygon>
+    </defs>
+    <g id="Icons-/-24px-/-Arrow-left-small" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Colors-/-Grey-3" transform="translate(8.000000, 7.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)" fill="#ffffff" id="Rectangle-3">
+                <g transform="translate(-8.000000, -7.000000)">
+                    <rect x="0" y="0" width="24" height="24"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

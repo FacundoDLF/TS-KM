@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="69px" height="70px" viewBox="0 0 69 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 57.1 (101010) - https://sketch.com -->
+    <title>6DF6511C-B474-4E60-BCC2-87A085497BDA</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M28.3791669,58.3333333 L39.7308337,58.3333333 L39.7308337,11.6666667 L28.3791669,11.6666667 L28.3791669,58.3333333 Z M11.3516668,58.3333333 L22.7033335,58.3333333 L22.7033335,35 L11.3516668,35 L11.3516668,58.3333333 Z M45.4066671,26.25 L45.4066671,58.3333333 L56.7583338,58.3333333 L56.7583338,26.25 L45.4066671,26.25 Z" id="path-1"></path>
+    </defs>
+    <g id="Asset-Artboard-Page" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons-/-50px-/-customers-Copy" transform="translate(0.763140, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Colors-/-New-Green-1" mask="url(#mask-2)" fill="#5CB247">
+                <rect id="Rectangle-3" x="0" y="0" width="68.1100006" height="70"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

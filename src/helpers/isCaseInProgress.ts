@@ -1,0 +1,61 @@
+import _ from "lodash";
+import { SelectedCase } from "@/types";
+
+const isCaseInProgress = (singularCase: SelectedCase) => {
+  const answers = _.omit(singularCase, [
+    "caseId",
+    "client",
+    "status",
+    "projectDescription",
+    "projectName",
+    "radiusId",
+    "eliteClientCode",
+    "startDate",
+    "endDate",
+    "capIQId",
+    "estimatedRevenue",
+    "isELAllowDiscloseability",
+    "isLogoAndNameOk",
+    "durationWeeks",
+    "decisionMakers",
+    "baseline",
+    "addresableSpend",
+    "outcomeSaving",
+    "countries",
+    "businessUnits",
+    "offerings",
+    "services",
+    "industries",
+    "communities",
+    "author",
+    "reviewerMD",
+    "reviewerBIC",
+    "starterTexts",
+    "engagementTeam",
+    "attachment",
+    "chartLocation",
+    "metricsOptions",
+    "projectNameEditable",
+    "caseCreationDate",
+    "createdAt",
+    "team",
+    "fasCaseCitation",
+    "fasClientPrevail",
+    "fasCourtCase",
+    "fasExpertTestimonyRequired",
+    "fasJurisdiction",
+    "fasOpposingExpert",
+    "fasOpposingExpertHourlyFee",
+    "fasOpposingExpertReportDate",
+    "fasLawFirms",
+    "fasRegulatoryAgencies",
+    "fasTerms",
+    "requiredFields",
+    "segments",
+    "metrics",
+    "capIQID"
+  ]);
+  return Object.values(answers).some(answer => answer);
+};
+
+export default isCaseInProgress;
